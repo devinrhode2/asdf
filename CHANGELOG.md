@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.11.1](https://github.com/asdf-vm/asdf/compare/v0.11.0...v0.11.1) (2022-12-19)
+
+
+### Bug Fixes
+
+* Ban use of 'test' ([#1383](https://github.com/asdf-vm/asdf/issues/1383)) ([ec972cb](https://github.com/asdf-vm/asdf/commit/ec972cbdf0acbecf70e3678c055e27866c49341d))
+
 ## [0.11.0](https://github.com/asdf-vm/asdf/compare/v0.10.2...v0.11.0) (2022-12-12)
 
 
